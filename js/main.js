@@ -247,6 +247,7 @@
 							},
 							leave: function() {
 								$intro.removeClass('hidden');
+			.header-music {margin-top: 80px; }
 							}
 						});
 
